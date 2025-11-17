@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ado-review-lens"
-version = "0.1.0"
+version = "0.1.1"
 description = "Azure DevOps PR comment MCP"
 authors = [{ name = "AdoReviewLens" }]
 readme = "README.md"
