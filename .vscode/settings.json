@@ -1,5 +1,13 @@
 {
     "cSpell.words": [
+        "dotenv",
+        "fastapi",
+        "fastmcp",
+        "pycache",
+        "pydantic",
+        "setuptools",
+        "typer",
+        "uvicorn",
         "venv"
     ]
 }
